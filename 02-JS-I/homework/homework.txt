@@ -1,0 +1,10 @@
+Homework de la clase 02-JS-I: Explicar los términos como si se le estuviera explicando a un niño de 12 años.
+Variables: Las variables son elementos que tienen un nombre y que pueden tomar diferentes valores. Por ejemplo, podemos llamar A y asignarle el valor 2. Podemos llamar B a otra variable y asignarle el valor 3. Si queremos sumar A + B, reemplazamos el valor de cada una por el que le asignamos, 2 +3 = 5. Las variables pueden tomar cualquier valor, no sólo numérico. Que servirán para diferentes cosas.
+
+Strings: Es un tipo de variable que almacena datos como texto. El nombre significa cadena y vendría a ser como una cadena de caracteres, como las palabras, que son una cadena de letras una atrás de la otra. Pueden ser palabras o números. Pero todo lo que se escriba como valor de una variable String, se interpreta como texto.
+
+Funciones: Son mecanismos que relacionan variables de acuerdo al procedimiento que se le indique, para devolver un valor. Las funciones pueden requerir variables o no. Si no requieren variables, el valro que devuelva no dependerá de los valores que se le introduzcan.
+
+Declaraciones if: Son los condicionales. Es decir, que responden a una condición. IF es la traducción del "Si" en español. Pero no del sí como afirmación, sino del si como posibilidad. Del mismo modo que decimos "si llueve tenemos que usar paraguas, sino tenemos que usar una gorra" podemos decirle a un programa que si sucede tal o cual condición, tiene que tomar cierta acción. Y si no se cumple esa condición, se puede tomar otra acción.
+
+Valores Booleanos: Son valores de verdadero o falso. Cuando tenemos un IF, o una condición, la condición puede cumplirse o no. Si la condición se cumple, tenemos un Verdadero (o true), si la condición no se cumple, tenemos un Falso (o false). En una estructura condicional (IF), planteamos una condición. Si esa condición se cumple, y da true, se realiza el procedimiento indicado. Si la condición no se cumple y da false, puede realizarse otro procedimiento indicado con la palabra else, o no realizarse ninguno.
