@@ -1,0 +1,13 @@
+FOR: es la palabra en inglés que significa "PARA". Se utiliza para ejecutar un mismo código repetidas veces para diferentes valores de una variable. Una vez escrita la palabra "for", hay que definir la variable que se va a utilizar y asignarle un valor inicial. Se le da una condición que debe limitar hasta qué valor queremos que varíe, y cuánto queremos que incremente en cada repetición. Por ejemplo:
+
+for (let i=0 ; i<10 ; i++) {
+
+}
+
+En esa expresión se indica que la variable es i, que inicia en 0, que siempre debe ser menor que 10 y con "i++" indicamos que en cada nueva repetición, al valor anterior de i hay que sumarle 1. Luego, entre las llaves, se escribe el código que debe ejecutarse en cada repetición.
+
+&&: Se utiliza para indicar que dos condiciones deben cumplirse simultáneamente para obtener un valor true.
+
+||: Se utiliza para indicar que, dadas dos condiciones, alcanza con que se cumpla una una u otra para obtener un valor true.
+
+!: invierte el valor true or false que obtengamos al hacer una prueba lógica.

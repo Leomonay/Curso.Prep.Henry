@@ -1,0 +1,1 @@
+Un Array es un conjunto de cualquier cantidad de elementos. Estos elementos tienen una posición fija adentro del array, que se corresponde con un número. El 0 (cero) indica el primer elemento, el 1 (uno) indica el segundo elemento, y así sucesivamente.
