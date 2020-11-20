@@ -1,0 +1,9 @@
+OBJETOS: Los objetos son los elementos que se programan en Java. Todo lo que se construye lleva el nombre de objetos. Cada objeto está definido por sus propiedades, que lo describen y le permiten realizar acciones.
+
+PROPIEDADES: es el conjunto de elementos que forman un objeto. Pueden ser datos, variables o funciones, o un array. Se invocan escribiendo la propiedad luego del objeto, separadas por un punto, por ejemplo: objeto.propiedad, o bien encerrando entre corchetes la propiedad del objeto, por ejemplo: objeto[propiedad]
+
+METODOS: Son las llamadas funciones. Ejecutan una acción. La función puede necesitar que le brindemos datos, como puede que sólo trabaje con variables ya estabelcidas. Por ejemplo, si queremos una función que multiplique los números del 1 al 10, no necesitamos brindarle un dato, ya que los datos ya estan definidos. Pero si queremos que calcule el cuadrado de un número que nosotros le digamos, la función va a requerir que le demos como dato el número que queremos elevar al cuadrado.
+
+BUCLE 'for...in': es un bucle FOR que funciona dentro de un objeto. En vez de establecer un número que vaya variando, lo que se hace es establecer una variable que incremente a modo de índice y vaya ejecutando la funcion para cada elemento dentro del objeto.
+
+NOTACIÓN DE PUNTOS vs NOTACIÓN DE CORCHETES: Ambas notaciones se utilizan para indicar propiedades de objetos. Los corchetes brindan la ventaja de que permiten utilizar strings. El uso de strings hace que si un parámetro de un método coincide en nombre con una propiedad del objeto a invocar, no se tome el parámetro de la función en lugar del nombre de la propiedad.
