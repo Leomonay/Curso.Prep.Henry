@@ -1,0 +1,3 @@
+prototype: es el tipo de elemento que se está utilizando. Si pudiéramos pensarlo como una familia, sería el "elemento padre". Por ejemplo, el elemento padre de cada cadena de texto es el tipo String. Todos los elementos posibles formados por palabras poseen las propiedades que posee String. Por ejemplo length, que indica el largo de la cadena de texto.
+
+Constructors son una función que crea objetos con las mismas propiedades. Cuando varios objetostienen las mismas propiedades se dice que pertenecen a una misma clase. Esto permite que las propiedades no haya que crearlas manualmente y evita posibles errores de tipeo al definirlas.
