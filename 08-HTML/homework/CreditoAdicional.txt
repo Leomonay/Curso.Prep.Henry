@@ -1,0 +1,9 @@
+Para establecer una imagen como fondo de toda la pantalla, se utiliza la propiedad background en la etiqueta BODY. Si la imagen es mas pequeña, se mostrará repetida en modo mosaico.
+
+Para centrar los divs en la página, se establece el ancho con WIDTH y con margin-left=auto y margin-right=auto, o bien dando iguales valores a ambas propiedades.
+
+Para centrar todos los elementos en la página, debajo de la etiqueta BODY debemos abrir la etiqueta <CENTER> y cerrarla antes de cerrar </BODY>
+
+  * [Lea sobre el posicionamiento y use la regla de posición en sus estilos](https://es.learnlayout.com/index.html)
+  
+  * Lea sobre flexbox y use flexbox para centrar todos los elementos en la página
