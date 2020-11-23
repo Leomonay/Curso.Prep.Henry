@@ -1,0 +1,1 @@
+CALLBACKS: son funciones que se utilizan como parámetro o dato de entrada para otras funciones, permitiendo utilizar sus resultados en la ejecución de la nueva función.
